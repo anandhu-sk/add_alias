@@ -1,0 +1,3 @@
+if [ -f /Users/ask/Desktop/ask/python-alias-handler/file1_ask.txt ]; then
+        . /Users/ask/Desktop/ask/python-alias-handler/file1_ask.txt
+    fi
